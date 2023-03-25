@@ -4,7 +4,7 @@ Installation
 
 To install the application, you can simply clone or download the repository from GitHub:
 
-git clone https://github.com/your-username/basic-js-counter-app.git
+git clone https://github.com/Prabhat-shandilya/Basic-JS-Counter-app.git
 Alternatively, you can download the source code as a ZIP file and extract it to a directory of your choice.
 
 Usage
